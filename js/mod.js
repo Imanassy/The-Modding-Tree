@@ -2,18 +2,18 @@ let modInfo = {
 	name: "The Imanassy's testing Tree of d00m",
 	id: "testmodofdoom",
 	author: "nobody",
-	pointsName: "points",
+	pointsName: "pizzas (oui je sais t'aime pas ça)",
 	discordName: "",
 	discordLink: "",
 	initialStartPoints: new Decimal (10), // Used for hard resets and new players
 	
-	offlineLimit: 1,  // In hours
+	offlineLimit: 8,  // In hours
 }
 
 // Set your version in num and name
 let VERSION = {
-	num: "0.0",
-	name: "Literally nothing",
+	num: "0.1",
+	name: "Les tests c'est cool",
 }
 
 let changelog = `<h1>Changelog:</h1><br>
